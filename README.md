@@ -76,7 +76,7 @@ GitHub에서 New Repository를 만듭니다. 이후 생성된 Repository URL을 
 프로젝트에 기여하고 싶다면, 해당 프로젝트를 fork하고, 변경사항을 commit한 다음, pull request를 생성하여 기여할 수 있습니다.
 <br><br>
 
-## 마크다운 사용법
+## markdown 사용법
 마크다운은 텍스트 기반의 마크업 언어로, 간단한 문법으로 다양한 문서를 꾸밀 수 있습니다. 이 섹션에서는 README 파일 작성에 유용한 마크다운 문법을 소개합니다.
 
 
